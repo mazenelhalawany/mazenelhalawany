@@ -5,7 +5,7 @@
 # 👋 Hi, I'm **Mazen Ahmed Elhalawany**
 ### 💙 Flutter Developer | Mobile Applications Engineer
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
 </div>
 
