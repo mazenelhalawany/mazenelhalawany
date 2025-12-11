@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Hello"/>
-
-# 👋 Hi, I'm **Mazen Ahmed Elhalawany**
+# 👋 Hi, I'm **Mazen Ahmed **
 ### 💙 Flutter Developer | Mobile Applications Engineer
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
@@ -82,7 +80,7 @@
 ---
 
 ## 📫 Contact  
-- Telegram: **@mazen_elhalawany**  
+- Gmail: **mazen52404@gmail.com**  
 - GitHub: **github.com/mazenelhalawany**
 
 ---
