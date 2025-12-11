@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm **Mazen Ahmed **
+# Hi, I'm Mazen Ahmed 👋
 ### 💙 Flutter Developer | Mobile Applications Engineer
 
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
